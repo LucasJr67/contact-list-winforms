@@ -1,5 +1,3 @@
-Here is the English version of the README file for your project. You can copy and paste this directly into your README.md file.
-
 📇 Contact List Management
 📖 Overview
 Contact List is a desktop application built with C# Windows Forms, designed to help users manage personal contact information efficiently and intuitively. This project was developed to demonstrate and practice GUI programming, event handling, and data manipulation within the .NET environment.
