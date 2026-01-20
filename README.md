@@ -1,10 +1,13 @@
  Contact List Management
+ 
  Overview
+ 
 Contact List is a desktop application built with C# Windows Forms, designed to help users manage personal contact information efficiently and intuitively. This project was developed to demonstrate and practice GUI programming, event handling, and data manipulation within the .NET environment.
 
 The application provides essential CRUD (Create, Read, Update, Delete) functionalities to manage friends, clients, or partners effectively.
 
  Key Features
+ 
  Add New Contact: Input detailed information (Full Name, Phone Number, Email, Address, etc.).
 
  View List: Display contacts in a clear, organized table format (DataGridView).
@@ -18,6 +21,7 @@ The application provides essential CRUD (Create, Read, Update, Delete) functiona
  Data Persistence: Data is saved securely (Local file or Database support depending on implementation).
 
  Tech Stack
+ 
 Language: C#
 
 Framework: .NET Framework / .NET Core (Windows Forms App)
@@ -30,16 +34,19 @@ UI: Windows Forms (WinForms) Standard Controls
 Follow these steps to get the project running on your local machine:
 
 1. Prerequisites
+
 Windows Operating System.
 
 Visual Studio (2019 or later) with the ".NET desktop development" workload installed.
 
 2. Steps to Run
+
 Clone the repository:
 
 Bash
 
 git clone https://github.com/LucasJr67/contact-list-winforms.git
+
 Open the project:
 
 Launch Visual Studio.
@@ -53,6 +60,7 @@ Build and Run:
 Press F5 or click the green Start button in the toolbar to compile and launch the application.
 
 Folder Structure
+
 Plaintext
 
 contact-list-winforms/
@@ -66,6 +74,7 @@ contact-list-winforms/
 └── README.md
 
 Contributing
+
 Contributions are always welcome! If you'd like to improve this project, please follow these steps:
 
 Fork the repository.
@@ -78,5 +87,6 @@ Push to the branch (git push origin feature/AmazingFeature).
 
 Open a Pull Request.
 
-📝 Contact
+Contact
+
 Author: LucasJr67
